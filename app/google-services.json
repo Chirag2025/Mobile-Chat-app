@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "643248989465",
+    "project_id": "messageapp-23f15",
+    "storage_bucket": "messageapp-23f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643248989465:android:f9d0358d5cbf59cac41188",
+        "android_client_info": {
+          "package_name": "com.anik.messageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClAuMk6rEhAw8BVzTbxmEUS6zkNImV_Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
